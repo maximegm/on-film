@@ -2,7 +2,7 @@ import React from "react";
 import { Box, Flex, Link, Text } from "rebass";
 
 const NavBar = () => (
-  <Flex px={2} color="white" bg="gold" alignItems="center">
+  <Flex px={2} color="gold" bg="white" alignItems="center">
     <Text p={2} fontWeight="bold">
       mg.<i>OnFilm</i>
     </Text>
